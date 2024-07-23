@@ -26,6 +26,6 @@ Check out the live demo [here](https://github.com/farrari-100).
 
 ## Contact
 
-Devendra - [devendrakumarjnv6@gamil.com(devendrakumarjnv6@gmail.com)]
+Devendra - [devendrakumarjnv6@gamil.com](devendrakumarjnv6@gmail.com)
 
-Project Link:[https://github.com/farrari-100(https://github.com/farrari-100)]
+Project Link:[https://github.com/farrari-100](https://github.com/farrari-100)

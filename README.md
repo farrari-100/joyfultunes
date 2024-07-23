@@ -21,7 +21,7 @@ JoyfulTunes is a music player. It provides an intuitive interface for users to p
 
 
 ## Demo
-Check out the live demo [here](https://github.com/farrari-100).
+Check out the live demo [here](https://farrari-100.github.io/joyfultunes/).
 
 
 ## Contact

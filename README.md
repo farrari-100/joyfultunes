@@ -21,11 +21,11 @@ JoyfulTunes is a music player. It provides an intuitive interface for users to p
 
 
 ## Demo
-Check out the live demo [here](https://navodayanvinu.github.io/JoyfulTunes/).
+Check out the live demo [here](https://github.com/farrari-100).
 
 
 ## Contact
 
-Vinod Malviya - [vk.malviya2002@gmail.com](vk.malviya2002@gmail.com)
+Devendra - [devendrakumarjnv6@gamil.com(devendrakumarjnv6@gmail.com)]
 
-Project Link: [https://github.com/Navodayanvinu/JoyfulTunes](https://github.com/Navodayanvinu/JoyfulTunes)
+Project Link:[https://github.com/farrari-100(https://github.com/farrari-100)]
